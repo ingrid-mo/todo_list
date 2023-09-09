@@ -5,8 +5,8 @@ let taskidcounter = 0;
 
 let tasks = [
     { id: 16, name: "hacer mercado", ready: false },
-    { id: 9, name: "estudiar para la prueba", ready: false },
-    { id: 12, name: "sacar a pasear a toby", ready: false },
+    { id: 60, name: "estudiar para la prueba", ready: false },
+    { id: 24, name: "sacar a pasear a toby", ready: false },
   ];
   
 
